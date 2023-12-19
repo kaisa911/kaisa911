@@ -1,7 +1,7 @@
 ## 欢迎 😝
 
 本周计划：
-1. C语言 阮一峰教程 看完第7章指针 ![](https://progress-bar.dev/29/?title=Progress&width=120&color=babaca) 
+1. C语言 阮一峰教程 看完第7章指针 ![](https://progress-bar.dev/70/?title=Progress&width=120&color=babaca) 
 2. 计算机网络第一章 ![](https://progress-bar.dev/30/?title=Progress&width=120&color=babaca) 
 3. Rust 程序设计语言 第4章 所有权 + 第5章 结构体  ![](https://progress-bar.dev/50/?title=Progress&width=120&color=babaca) 
 4. 优化 question 后端代码  ![](https://progress-bar.dev/70/?title=Progress&width=120&color=babaca) 
