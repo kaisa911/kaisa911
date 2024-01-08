@@ -8,7 +8,7 @@
 4. Trigger 结束逻辑 ![](https://progress-bar.dev/40/?title=Progress&width=120&color=babaca)
 5. React 文档复习 ![](https://progress-bar.dev/0/?title=Progress&width=120&color=babaca)
 
-计算机网络：从70% - 100%;
-LeetCode 复习 10 道题
-Trigger 结束逻辑，预计周三完成
-React 文档争取能刷一半
+计算机网络：从 70% - 100% 
+LeetCode 复习 10 道题 
+Trigger 结束逻辑，预计周三完成 
+React 文档争取能刷一半 
