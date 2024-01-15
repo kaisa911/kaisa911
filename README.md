@@ -8,8 +8,8 @@
 4. React 文档复习 ![](https://progress-bar.dev/20/?title=Progress&width=120&color=babaca)
 5. 研究 25 道题 ![](https://progress-bar.dev/0/?title=Progress&width=120&color=babaca)
 
-计算机网络：从 70% to 100%
-LeetCode 复习 20 道题
-React 文档争取能刷完 20% to 100%
-Clang 从 13-17 章
-25 道题
+- 计算机网络：从 70% to 100%  
+- LeetCode 复习 20 道题  
+- React 文档争取能刷完 20% to 100%  
+- Clang 从 13-17 章  
+- 25 道题  
