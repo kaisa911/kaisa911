@@ -6,7 +6,7 @@
 2. 计算机网络第一章 ![](https://progress-bar.dev/70/?title=Progress&width=120&color=babaca)
 3. 复习 leetcode 20 道 ![](https://progress-bar.dev/25/?title=Progress&width=120&color=babaca)
 4. React 文档复习 ![](https://progress-bar.dev/30/?title=Progress&width=120&color=babaca)
-5. 研究 25 道题 ![](https://progress-bar.dev/20/?title=Progress&width=120&color=babaca)
+5. 研究 25 道题 ![](https://progress-bar.dev/80/?title=Progress&width=120&color=babaca)
 
 - 计算机网络：从 70% to 100%  
 - LeetCode 复习 20 道题  
