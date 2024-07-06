@@ -1,7 +1,7 @@
 # 欢迎 😝
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=kaisa911&show_icons=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=kaisa911&show_icons=true?count_private=true" />
 </a>
 
 ### languages
